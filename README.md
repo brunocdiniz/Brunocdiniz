@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💻 Cursos Realizados: <strong> Python, SQL, SAS, Data Analytics e Linux. </strong>
+  💻 Cursos Realizados: <strong> Python, SQL, SAS, Data Analytics e Linux Admin. </strong>
 </p>
 
 .
