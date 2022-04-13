@@ -1,7 +1,7 @@
 ### Olá ! Eu sou Bruno Diniz 🤙 
 
 <p align="left"> 
-  🧑‍💻 Atualmente trabalho como Suporte Técnico e meus estudos vem sendo construído para me tornar <strong>Engenheiro de Dados</strong> .
+  🧑‍💻 Atualmente trabalho como Suporte Técnico e meus estudos vem sendo construído para me tornar <strong>Analista de Cloud</strong> .
 </p>
 
 ## ✅ Soft Skills:
