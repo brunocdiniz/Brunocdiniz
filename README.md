@@ -11,11 +11,11 @@
 
 ## ✅ Task Skills
 <p align="left">
-  📚 Conhecimento teórico : <strong> Data Lake, Datawharehouse, ETL e ELT.</strong>
+  📚 Conhecimento teórico : <strong> Tipos de nuvem (pública, privada, híbrida), características de uma plataforma de nuvem, modelos de serviço (SaaS, PaaS, IaaS), escalabilidade,entre outros..</strong>
 </p>
 
 <p align="left">
-  💻 Cursos Realizados: <strong> Python, SQL, SAS, Data Analytics e Linux Admin. </strong>
+  💻 Cursos Realizados: <strong> Microsoft Azure AZ 900 , Linux Admin , SAS e AWS Data Analytics. </strong>
 </p>
 
 .
