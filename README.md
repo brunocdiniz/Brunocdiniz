@@ -1,23 +1,15 @@
 ### Olá ! Eu sou Bruno Diniz 🤙 
 
 <p align="left"> 
-  🧑‍💻 Atualmente trabalho como Suporte Técnico e meus estudos vem sendo construído para me tornar <strong>Analista de Cloud</strong> .
-</p>
+  🧑‍💻 Profissional de Tecnologia com atuação em ambientes analíticos de missão crítica no setor bancário.
 
-## ✅ Soft Skills:
-<p align="left">
-  <strong> Proativo, trabalho em equipe, responsável, colabora com o time e uma boa comunicação .</strong>
-</p>
+Experiência com administração de SAS 9.4 Grid, controle de acessos, troubleshooting em produção e processos estruturados de promoção entre ambientes com esteira automatizada (Azure DevOps).
 
-## ✅ Task Skills
-<p align="left">
-  📚 Conhecimento teórico : <strong> Tipos de nuvem (pública, privada, híbrida), características de uma plataforma de nuvem, modelos de serviço (SaaS, PaaS, IaaS), escalabilidade,entre outros..</strong>
-</p>
+Foco atual em Engenharia e Arquitetura Cloud, aprofundando conhecimentos em:
+Infraestrutura como Código, automação, containers e padrões de arquitetura em Microsoft Azure.
 
-<p align="left">
-  💻 Cursos Realizados: <strong> Microsoft Azure AZ 900 , Linux Admin , SAS e AWS Data Analytics. </strong>
+Construindo soluções escaláveis, governáveis e orientadas a boas práticas.</strong> .
 </p>
-
 .
 
 .
