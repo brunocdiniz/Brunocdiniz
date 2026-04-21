@@ -21,12 +21,4 @@ Background em ambientes críticos SAS/bancário → foco atual em IaC, DevOps e 
 - Azure
 - Terraform  
 - Kubernetes 
-- Arquiteturas escaláveis e resilientes  
-
----
-
-### 📬 Contato
-
-<p align="left">
-💌 Vamos nos conectar! Fique à vontade para me enviar uma mensagem.
-</p>
+- Arquiteturas escaláveis e resilientes
